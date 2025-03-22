@@ -1,6 +1,6 @@
 export default function Navbar() {
     return (
-        <nav className="flex justify-between items-center p-4 bg-gray-800 text-white">
+        <nav className="flex justify-between items-center p-4 bg-gray-800">
             <div className="flex">
                 <a href="#" target="_blank">
                     <i className="fa-brands fa-web-awesome text-amber-400"></i>
